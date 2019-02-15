@@ -1,5 +1,5 @@
-Bug Fix
+Pull Request
 ===
-**Bugfix:**  
-*Which bug is fixed by this pull request?*  
-*Link to the Issue*
+**Category:**  
+*Is this pull request a bugfix or an addition?*
+>Link to the Issue in github
